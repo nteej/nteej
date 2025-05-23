@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Liyana Jayasinghe</h1>
+<h1 align="center">Hi 👋, I'm Liyana</h1>
 <p align="center">
-  <strong>Software Engineer | Backend Developer | Open Source Design Enthusiast</strong><br>
+  <strong> Backend Developer | Open Source Coding Enthusiast</strong><br>
   <a href="https://linkedin.com/in/liyana-fin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
   <a href="mailto:liyana.fin@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
@@ -66,10 +66,14 @@ See more projects on my [GitHub repositories page!](https://github.com/nteej?tab
 
 ---
 
-### 💡 Career Goals
-- Open to new opportunities worldwide and eager to take part in international software projects.
-- Interested in technical leadership roles and working with innovative, problem-solving, and people-oriented teams.
-- Always looking to contribute to impactful solutions and deliver value in dynamic environments.
+### 🎯 Career Goals
+
+I'm passionate about building software that makes a difference. My ambition is to:
+
+- 🌍 **Work globally** on impactful software projects with diverse, international teams  
+- 👥 Take on **technical leadership** roles where I can guide, mentor, and learn from others  
+- 💡 Join teams that value **innovation**, **collaboration**, and solving real-world problems  
+- 🚀 Contribute to meaningful solutions that bring value to users in **fast-paced**, evolving environments
 
 ---
 
