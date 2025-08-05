@@ -29,7 +29,7 @@
 ### 🛠️ Technical Skills
 
 **Programming Languages:**  
-&nbsp;&nbsp;&nbsp;Java (PHP Laravel/Lumen, REST API), Python (Pandas, NumPy, Scikit-learn, FastAPI), Dart (Flutter), Swift (iOS, SwiftUI), JavaScript (Node.js),ReactJs
+&nbsp;&nbsp;&nbsp;PHP (PHP Laravel/Lumen, REST API), Python (Pandas, NumPy, Scikit-learn, FastAPI), Dart (Flutter), Swift (iOS, SwiftUI), JavaScript (Node.js),ReactJs
 
 **Backend Development:**  
 &nbsp;&nbsp;&nbsp;Microservices Architecture, RESTful API Design, Authentication/Authorization (JWT, OAuth2), gRPC, WebSocket, API Gateway, Caching (Redis), Messaging (RabbitMQ)
